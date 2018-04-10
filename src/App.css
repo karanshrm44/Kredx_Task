@@ -1,0 +1,21 @@
+.box{
+  border:1px solid black;
+  width:80%;
+  height: 90%;
+  margin-left: 120px;
+  margin-top: 50px;
+  padding-bottom: 50px;
+
+}
+.top {
+  text-align: center;
+  color: white;
+ margin-top: 0%;
+  font-size: 40px;
+  background-color: blue;
+}
+
+.App {
+ margin-left: 300px;
+  margin-top:70px;
+}
